@@ -1,0 +1,20 @@
+{
+    "Rules": [
+      {
+        "Filter": {
+         "Prefix": "2023/"
+        },
+        "Status": "Enabled",
+        "Transitions": [
+          {
+            "Days": 365,
+            "StorageClass": "GLACIER"
+          }
+        ],
+        "Expiration": {
+          "Days": 1000
+        },
+        "ID": "ExampleRule"
+      }
+    ]
+  } 
