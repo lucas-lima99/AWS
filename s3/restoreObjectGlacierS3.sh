@@ -1,4 +1,4 @@
-# Script para restaurar um arquivo Glacier no S3
+# Script to restore one class file Glacier in S3
 
 # Directory example: s3://bucketcli-example/example-glacier
 # File URI: s3://bucketcli-example/example-glacier/example-glacier.txt
