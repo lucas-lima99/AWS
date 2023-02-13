@@ -1,4 +1,4 @@
-#Script for upload all files in your local directory to one bucket. Os arquivos são removidos do diretório local
+#Script for upload all files in your local directory to one bucket
 
 #Command: aws s3 cp <localdirectory> <bucketdirectory> --recursive
 #In this example, I will use the command to upload all files present in a local directory to the bucket already created
